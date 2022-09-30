@@ -9,19 +9,19 @@ let etapas = [
                 numero: '9876',
                 nome: 'Fulano',
                 partido: 'PT',
-                fotos: [ {url: 'fulano.png', legenda: 'Deputado'} ]
+                fotos: [ {url: './img/dep1.jpg', legenda: 'Deputado'} ]
             },
             {
                 numero: '1234',
                 nome: 'Cicrano',
                 partido: 'PL',
-                fotos: [ {url: 'fulano.png', legenda: 'Deputado'} ]
+                fotos: [ {url: './img/dep2.jpg', legenda: 'Deputado'} ]
             },
             {
                 numero: '4321',
                 nome: 'Beltrano',
                 partido: 'União',
-                fotos: [ {url: 'fulano.png', legenda: 'Deputado'} ]
+                fotos: [ {url: './img/dep3.jpg', legenda: 'Deputado'} ]
             },
         ],   
     },
